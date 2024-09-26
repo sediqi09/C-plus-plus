@@ -1,6 +1,3 @@
-// Задание 1.2 Методы
-#include <iostream>
-
 #include <iostream>
 
 int sumLastNums(int x) {
